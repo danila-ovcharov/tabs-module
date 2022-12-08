@@ -1,5 +1,5 @@
 # tabs-module
-Tabs module with 4 parameters:
+Simple tabs module with 4 parameters:
 
 1) tabsSelector - tabs li;
 2) tabsContentSelector - tabs content;
